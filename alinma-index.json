@@ -1,0 +1,22 @@
+[
+  {
+    "index": "job_post",
+    "filter": {
+      "_id": {
+        "$in": [
+      "68ac1c22e4a935379d4cbfde"
+    ]
+      }
+    }
+  },
+  {
+    "index": "job_application",
+    "filter": {
+      "job_post": {
+        "$in": [
+      "68ac1c22e4a935379d4cbfde"
+    ]
+      }
+    }
+  }
+]
