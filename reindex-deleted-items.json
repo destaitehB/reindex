@@ -1,0 +1,34 @@
+[
+  {
+    "index": "job_seeker",
+    "filter": {
+      "_id": "647cb4b9313870a481ba0b1b"
+    }
+  },
+{
+    "index": "interview",
+    "filter": {
+    "_id": {
+        "$in": [
+            "64d3aaabb4154132727ed015",
+            "6570415df012625b897077cc",
+            "65646d31f01262e3f36f48cd",
+            "65646d31f01262e3f36f48cd"
+        ]
+    }
+}
+  },
+{
+    "index": "job_application",
+    "filter": {
+    "_id": {
+        "$in": [
+            "64d3aaabb4154132727ed015",
+            "6570415df012625b897077cc",
+            "65646d31f01262e3f36f48cd",
+            "65646d31f01262e3f36f48cd"
+        ]
+    }
+}
+  }
+]
