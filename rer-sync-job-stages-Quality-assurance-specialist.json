@@ -1,0 +1,10 @@
+{
+  "job_post": {
+    "_id": {
+      "$in": [
+        "68a6f19d3984b2ed5ba6c2e5"
+      ]
+    }
+  },
+  "stage_template": "6888be11f82ffaa9f459f8df"
+}
