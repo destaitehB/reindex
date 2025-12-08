@@ -1,0 +1,15 @@
+[
+  {
+    "index": "job_post",
+    "filter": {
+      "_id": {
+        "$in": [
+      "69366db3f8a4e307e8cdd544",
+  "69366dcab0cae5aafd4b2089",
+  "69366ddaf8a4e307e8cdd595",
+  "69366debb0cae5aafd4b20da"
+    ]
+      }
+    }
+  }
+]
