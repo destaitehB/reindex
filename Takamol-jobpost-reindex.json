@@ -1,0 +1,23 @@
+[
+  {
+    "index": "job_post",
+    "filter": {
+      "_id": {
+        "$in": [
+          "6936afb41592ca927698af72",
+          "6936afb71592ca927698afa5",
+          "6936afb71592ca927698afb3",
+          "6936bdc4b00c8d5af777f735",
+          "6936bdc5b00c8d5af777f743",
+          "6936bdc5b00c8d5af777f751",
+          "6936cbd4c47fe6ffa54bf2de",
+          "6936cbd6c47fe6ffa54bf2ec",
+          "6936cbd7c47fe6ffa54bf2fd",
+          "6936d9e4fcbbe00741d00b1f",
+          "6936d9e6fcbbe00741d00b2d",
+          "6936d9e7fcbbe00741d00b3d"
+        ]
+      }
+    }
+  }
+]
