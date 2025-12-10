@@ -1,0 +1,10 @@
+[
+  {
+    "index": "job_post",
+    "filter": {
+      "_id": {
+        "$in": ["6910bbe2db81bbb5f38a3113"]
+      }
+    }
+  }
+]
