@@ -1,0 +1,14 @@
+[
+  {
+    "index": "interview",
+    "filter": {
+      "_id": {
+        "$in": [
+          "696f62aaed9eb3f37ee34673",
+          "696f633aa9d146fd9aafb65e",
+          "696f6504a9d146fd9aafc8f8"
+        ]
+      }
+    }
+  }
+]
