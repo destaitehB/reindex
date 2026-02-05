@@ -1,0 +1,14 @@
+[
+  {
+    "index": "job_application",
+    "filter": {
+      "_id": {
+        "$in": [
+          "697261bad8a366fe951f781a",
+          "66ea8937cd41c6784d9cb3b3",
+          "673b260246e6725f654de066"
+        ]
+      }
+    }
+  }
+]
