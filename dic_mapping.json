@@ -1,0 +1,11 @@
+{
+	"access_requests": {
+		"reject_title_modal": "settings.access_requests.admin_access_request_rejected_confirm_msg",
+		"accept_title_modal": "settings.access_requests.admin_access_request_accepted_confirm_msg",
+		"accept": "settings.access_requests.accept",
+		"reject": "settings.access_requests.reject",
+		"accepted": "settings.access_requests.accepted",
+		"rejected": "settings.access_requests.rejected",
+		"pending": "settings.access_requests.pending"
+	}
+}
