@@ -1,0 +1,8 @@
+[
+  {
+    "index": "job_application",
+    "filter": {
+      "interview": { "$exists": true }
+    }
+  }
+]
